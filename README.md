@@ -1,6 +1,12 @@
 # Te Koru o te Mauri
 ### The Universal Glyph of Human Enhanced Performance
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19191397.svg)](https://doi.org/10.5281/zenodo.19191397)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+**Canonical source:** [github.com/MakaraNZ/te-koru-o-te-mauri](https://github.com/MakaraNZ/te-koru-o-te-mauri)  
+**Permanent record:** [doi.org/10.5281/zenodo.19191397](https://doi.org/10.5281/zenodo.19191397)
+
 ---
 
 > *A single dot. A single line that begins at the dot and spirals outward until it disappears beyond the edge of what can be seen. No beginning you can walk back to. No end you can arrive at. Only the spiral — expanding, always expanding.*
