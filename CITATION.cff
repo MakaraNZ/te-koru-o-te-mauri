@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this glyph, narrative, or covenant in your work, please cite it as below."
+type: software
+title: "Te Koru o te Mauri — The Universal Glyph of Human Enhanced Performance"
+abstract: >
+  Te Koru o te Mauri is a geometric glyph and accompanying declaration
+  encoding the principles of Human Enhanced Performance (HEP) and the
+  mauri covenant. A single spiral originating from a seed point, expanding
+  outward without closure — representing the continuous unfolding of human
+  life in service of flourishing across generations. The glyph is designed
+  to be legible and meaningful across any distance of time, language, or
+  culture. Its North Star: in 10,000 years, a 10-year-old child flourishes
+  in joy, safety, connection, and mauri.
+authors:
+  - family-names: "Makara"
+    given-names: "Peter"
+    affiliation: "Be Uncommon, Waikato, Aotearoa New Zealand"
+    orcid: ""
+identifiers:
+  - type: url
+    value: "https://github.com/MakaraNZ/te-koru-o-te-mauri"
+    description: "GitHub repository — canonical source"
+repository-code: "https://github.com/MakaraNZ/te-koru-o-te-mauri"
+url: "https://github.com/MakaraNZ/te-koru-o-te-mauri"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-03-23"
+keywords:
+  - "human enhanced performance"
+  - "HEP"
+  - "mauri"
+  - "whakapapa"
+  - "koru"
+  - "Māori"
+  - "indigenous AI"
+  - "AI ethics"
+  - "intergenerational responsibility"
+  - "north star"
+  - "sovereign intelligence system"
+  - "SIS"
+  - "Synthesis"
+  - "human flourishing"
+  - "Aotearoa New Zealand"
