@@ -17,6 +17,9 @@ authors:
     affiliation: "Be Uncommon, Waikato, Aotearoa New Zealand"
     orcid: ""
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.19191397"
+    description: "Zenodo DOI — permanent record"
   - type: url
     value: "https://github.com/MakaraNZ/te-koru-o-te-mauri"
     description: "GitHub repository — canonical source"
